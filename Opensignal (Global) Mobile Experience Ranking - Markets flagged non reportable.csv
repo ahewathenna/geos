@@ -1,0 +1,21 @@
+location,country_iso3,Reason
+China,CHN,results are not representative due to 'Great Firewall'
+North Korea,PRK, selected as non-reportable for brand reasons
+Cuba,CUB, selected as non-reportable for brand reasons
+Afganistan,AFG, selected as non-reportable for brand reasons
+Crimea,CRM, selected as non-reportable for brand reasons - defined as a separate country (following manual exclusion from either UKR or RUS results)
+Martinique,MTQ,"consitutes part of foreign territories, considered not relevant to global index"
+Réunion,REU,"consitutes part of foreign territories, considered not relevant to global index"
+Anguilla,AIA,"consitutes part of foreign territories, considered not relevant to global index"
+Bermuda,BMU,"consitutes part of foreign territories, considered not relevant to global index"
+British Virgin Islands,VGB,"consitutes part of foreign territories, considered not relevant to global index"
+Cayman Islands,CYM,"consitutes part of foreign territories, considered not relevant to global index"
+Falkland Islands,FLK,"consitutes part of foreign territories, considered not relevant to global index"
+Gibraltar,GIB,"consitutes part of foreign territories, considered not relevant to global index"
+Montserrat,MSR,"consitutes part of foreign territories, considered not relevant to global index"
+"Saint Helena, Ascension and Tristan da Cunha",SHN,"consitutes part of foreign territories, considered not relevant to global index"
+Turks and Caicos Islands,TCA,"consitutes part of foreign territories, considered not relevant to global index"
+French Polynesia,PYF,"consitutes part of foreign territories, considered not relevant to global index"
+Faroe Islands,FRO,"consitutes part of foreign territories, considered not relevant to global index"
+Cook Islands,COK,"consitutes part of foreign territories, considered not relevant to global index"
+Niue,NIU,"consitutes part of foreign territories, considered not relevant to global index"
