@@ -1,0 +1,271 @@
+Review process date,iso3,Country,Operator,5G Status,5G Status: Confidence,canonical_network_id,category,operator_type,Focus_operator,Focus_market,Opensignal 5G commercially active,Opensignal 5G launch date,GSMA Country name,GSMA Operator name,GSMA 5G commercially active,GSMA Launch date,GSA Country name,GSA Operator name,GSA 5G commercially active,TeleGeography Country name,TeleGeography Operator name,TeleGeography 5G commercially active
+16 Dec 2024,AFG,Afghanistan,AWCC,Not launched,Unknown,4120,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,AFG,Afghanistan,Roshan,Not launched,Unknown,4121,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,AFG,Afghanistan,MTN,Not launched,Unknown,4122,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,DZA,Algeria,Ooredoo,Not launched,Low,6032,bronze-focus,mno,True,True,,,,,,,,,,Algeria,Ooredoo Algeria,False
+16 Dec 2024,AUT,Austria,A1,Launched,High,2320,bronze-focus,mno,True,True,True,,Austria,A1 Telekom,True,2020-01-27 00:00:00+00:00,Austria,A1 Telekom,True,Austria,A1 Telekom Austria,True
+16 Dec 2024,AUT,Austria,Magenta,Launched,High,2321,bronze-focus,mno,True,True,True,,,,,,Austria,T-Mobile (Magenta Telekom),True,Austria,T-Mobile Austria (Magenta Telekom),True
+16 Dec 2024,BHR,Bahrain,Batelco,Launched,High,4260,silver-focus,mno,True,True,True,01/07/2019,Bahrain,Batelco,True,2019-06-03 00:00:00+00:00,Bahrain,Batelco,True,Bahrain,"Bahrain Telecommunications Company (Beyon, Batelco)",True
+16 Dec 2024,BHR,Bahrain,Zain,Launched,High,4261,silver-focus,mno,True,True,True,01/06/2020,Bahrain,Zain,True,2020-06-29 00:00:00+00:00,Bahrain,Zain,True,Bahrain,Zain Bahrain,True
+16 Dec 2024,BHR,Bahrain,stc,Launched,High,4263,silver-focus,mno,True,True,True,01/07/2019,Bahrain,STC,True,2019-06-27 00:00:00+00:00,Bahrain,"STC (formerly Viva, Menatelecom)",True,Bahrain,stc Bahrain,True
+16 Dec 2024,BGD,Bangladesh,Grameenphone,Not launched,High,4700,bronze-focus,mno,True,True,,,Bangladesh,Grameenphone (Telenor),False,,Bangladesh,Grameenphone (GP),False,Bangladesh,GrameenPhone (GP),False
+16 Dec 2024,BGD,Bangladesh,Robi,Not launched,High,4701,bronze-focus,mno,True,True,,,Bangladesh,Robi (Axiata),False,,Bangladesh,Robi Axiata-Airtel,False,Bangladesh,Robi Axiata,False
+16 Dec 2024,BGD,Bangladesh,Banglalink,Not launched,Unknown,4702,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,BGD,Bangladesh,TeleTalk,Not launched,High,4703,bronze-focus,mno,True,True,,,Bangladesh,Teletalk,False,,Bangladesh,Teletalk,False,Bangladesh,Teletalk,False
+16 Dec 2024,BEL,Belgium,Proximus,Launched,High,2060,bronze-focus,mno,True,True,True,,Belgium,Proximus,True,2020-04-02 00:00:00+00:00,Belgium,Belgacom / Proximus,True,Belgium,Proximus,True
+16 Dec 2024,BEL,Belgium,Orange,Launched,High,2066,bronze-focus,mno,True,True,True,,Belgium,Orange,True,2022-02-11 00:00:00+00:00,Belgium,Orange,True,Belgium,Orange Belgium (incl. VOO),True
+16 Dec 2024,BEL,Belgium,Telenet,Launched,High,2068,bronze-focus,mno,True,True,True,,Belgium,BASE (Telenet),True,2022-04-05 00:00:00+00:00,Belgium,BASE (Telenet),True,Belgium,Telenet (incl. BASE),True
+16 Dec 2024,BGR,Bulgaria,A1,Launched,High,2840,bronze-focus,mno,True,True,True,,Bulgaria,A1 (A1 Telekom Austria),True,2020-11-24 00:00:00+00:00,Bulgaria,A1,True,Bulgaria,A1 Bulgaria,True
+16 Dec 2024,BGR,Bulgaria,Vivacom,Launched,High,2841,bronze-focus,mno,True,True,True,,Bulgaria,VIVACOM (United),True,2020-09-21 00:00:00+00:00,Bulgaria,Vivacom,True,Bulgaria,Vivacom (BTC),True
+16 Dec 2024,BGR,Bulgaria,Yettel,Launched,High,2842,bronze-focus,mno,True,True,True,,Bulgaria,Yettel (PPF),True,2021-06-10 00:00:00+00:00,,,,Bulgaria,Yettel Bulgaria,True
+16 Dec 2024,KHM,Cambodia,Cellcard,Not launched,High,4560,silver-focus,mno,True,True,,,Cambodia,Cellcard (MobiTel),False,,Cambodia,Cellcard,False,Cambodia,CamGSM (Cellcard),False
+16 Dec 2024,KHM,Cambodia,Smart,Not launched,High,4561,silver-focus,mno,True,True,,,Cambodia,Smart (Axiata),False,,Cambodia,Smart Axiata,False,Cambodia,Smart Axiata,False
+16 Dec 2024,KHM,Cambodia,Metfone,Not launched,Medium,4563,silver-focus,mno,True,True,,,,,,,Cambodia,Viettel (Metfone),False,Cambodia,Viettel Cambodia (Metfone),False
+16 Dec 2024,CAN,Canada,Telus,Launched,High,3020,titanium-focus,mno,True,True,True,,Canada,Telus,True,2020-06-18 00:00:00+00:00,Canada,Telus,True,Canada,Telus Corporation,True
+16 Dec 2024,CAN,Canada,Bell,Launched,High,30217,titanium-focus,mno,True,True,True,,Canada,Bell (BCE),True,2020-06-11 00:00:00+00:00,Canada,Bell Mobility,True,Canada,Bell Canada Enterprises (BCE),True
+16 Dec 2024,CAN,Canada,Rogers,Launched,High,30227,titanium-focus,mno,True,True,True,,Canada,Rogers,True,2020-03-06 00:00:00+00:00,Canada,Rogers Wireless (inc. Fido),True,Canada,Rogers Communications,True
+16 Dec 2024,AFG,Afghanistan,Etisalat,Not launched,Unknown,4123,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,CHL,Chile,Entel,Launched,High,7300,gold-focus,mno,True,True,True,,Chile,Entel,True,2021-12-16 00:00:00+00:00,Chile,Entel,True,Chile,Entel Chile,True
+16 Dec 2024,CHL,Chile,Movistar,Launched,High,7301,gold-focus,mno,True,True,True,,Chile,Movistar (Telefonica),True,2021-12-20 00:00:00+00:00,Chile,Telefonica Movistar,True,Chile,Telefonica Moviles Chile (Movistar),True
+16 Dec 2024,CHL,Chile,Claro,Not launched,Medium,7302,gold-focus,mno,True,True,,,Chile,Claro (America Movil),False,,Chile,Claro,False,,,
+16 Dec 2024,CHL,Chile,WOM,Launched,High,7303,gold-focus,mno,True,True,True,,Chile,WOM (Novator),True,2022-03-24 00:00:00+00:00,Chile,WOM (formerly Nextel),True,Chile,WOM,True
+16 Dec 2024,COL,Colombia,Claro,Launched,High,7323,gold-focus,mno,True,True,True,23/02/2024,Colombia,Claro (America Movil),True,2024-02-23 00:00:00+00:00,Colombia,Claro,True,Colombia,Claro Colombia,True
+16 Dec 2024,COL,Colombia,Movistar,Launched,High,7324,gold-focus,mno,True,True,True,01/03/2024,Colombia,Movistar (Telefonica),True,2024-02-23 00:00:00+00:00,Colombia,Telefonica Movistar,False,Colombia,Telefonica Colombia (Movistar),True
+16 Dec 2024,COL,Colombia,Tigo,Launched,Medium,7325,gold-focus,mno,True,True,True,23/02/2024,Colombia,Tigo (Millicom),True,2024-02-23 00:00:00+00:00,,,,,,
+16 Dec 2024,COL,Colombia,WOM,Launched,High,73218,gold-focus,mno,True,True,False,,Colombia,WOM (Novator),True,2024-02-26 00:00:00+00:00,,,,Colombia,Partners Telecom Colombia (WOM),False
+16 Dec 2024,ALB,Albania,ONE,Launched,Medium,2760,bronze-focus,mno,True,True,,,Albania,One Telecommunication (antenna Hungaria),True,2024-11-25 00:00:00+00:00,,,,Albania,ONE Albania (formerly ONE Telecommunications/ALBtelecom),True
+16 Dec 2024,ALB,Albania,Vodafone,Launched,High,2761,bronze-focus,mno,True,True,,,Albania,Vodafone,False,,Albania,Vodafone Albania,False,Albania,Vodafone Albania,True
+16 Dec 2024,DZA,Algeria,Mobilis,Not launched,Medium,6030,bronze-focus,mno,True,True,,,,,,,Algeria,AlgÃ©rie TÃ©lÃ©com/Mobilis,False,Algeria,Algerie Telecom Mobile (Mobilis),False
+16 Dec 2024,DZA,Algeria,Djezzy,Not launched,High,6031,bronze-focus,mno,True,True,,,Algeria,Djezzy,False,,Algeria,Djezzy (Orascom),False,Algeria,Optimum Telecom Algerie (Djezzy),False
+16 Dec 2024,AUT,Austria,3,Launched,Low,2323,bronze-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,HRV,Croatia,HT,Launched,Medium,2190,bronze-focus,mno,True,True,True,,,,,,,,,Croatia,"Hrvatski Telekom (HT, incl. Iskon)",True
+16 Dec 2024,HRV,Croatia,Telemach,Launched,High,2191,bronze-focus,mno,True,True,True,,Croatia,Telemach (United),True,2021-09-16 00:00:00+00:00,Croatia,Telemach (formerly Tele2),True,Croatia,Telemach Croatia (incl. Optima Telekom),True
+16 Dec 2024,HRV,Croatia,A1,Launched,High,2192,bronze-focus,mno,True,True,True,,Croatia,A1 (A1 Telekom Austria),True,2021-08-12 00:00:00+00:00,Croatia,A1,True,Croatia,A1 Croatia,True
+16 Dec 2024,CZE,Czech Republic,T-Mobile,Launched,High,2300,bronze-focus,mno,True,True,True,,Czechia,T-Mobile (Deutsche Telekom),True,2020-11-01 00:00:00+00:00,Czechia,T-Mobile,True,Czech Republic,T-Mobile Czech Republic,True
+16 Dec 2024,CZE,Czech Republic,O2,Launched,High,2301,bronze-focus,mno,True,True,True,,Czechia,O2 (PPF),True,2020-07-01 00:00:00+00:00,Czechia,CETIN (O2),True,Czech Republic,O2 Czech Republic,True
+16 Dec 2024,CZE,Czech Republic,Vodafone,Launched,High,2302,bronze-focus,mno,True,True,True,,Czechia,Vodafone,True,2020-10-05 00:00:00+00:00,Czechia,Vodafone,True,Czech Republic,Vodafone Czech Republic,True
+16 Dec 2024,DNK,Denmark,Telenor,Launched,High,2380,silver-focus,mno,True,True,True,,Denmark,Telenor,True,2020-11-18 00:00:00+00:00,Denmark,Telenor,True,Denmark,Telenor Denmark,True
+16 Dec 2024,DNK,Denmark,3,Launched,Low,2384,silver-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,DNK,Denmark,TDC,Launched,Medium,2388,silver-focus,mno,True,True,True,,,,,,,,,Denmark,"TDC (incl. Nuuday, TDC Net)",True
+16 Dec 2024,DNK,Denmark,Telia,Launched,High,23811,silver-focus,mno,True,True,True,,Denmark,Telia Mobil,True,2020-12-01 00:00:00+00:00,,,,Denmark,Telia Denmark,True
+16 Dec 2024,BOL,Bolivia,Viva,Not launched,Unknown,7360,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,BOL,Bolivia,Entel,Not launched,High,7361,bronze-focus,mno,True,True,,,Bolivia,Entel,False,,Bolivia,Entel Movil,False,Bolivia,Entel Movil,False
+16 Dec 2024,BOL,Bolivia,Tigo,Not launched,Low,7362,bronze-focus,mno,True,True,,,,,,,Bolivia,Millicom (Tigo),False,,,
+16 Dec 2024,BRA,Brazil,TIM,Launched,High,7242,platinum-focus,mno,True,True,True,,Brazil,TIM (Telecom Italia),True,2020-07-08 00:00:00+00:00,Brazil,TIM Brasil,True,Brazil,TIM Brasil,True
+16 Dec 2024,BRA,Brazil,Claro,Launched,High,7243,platinum-focus,mno,True,True,True,,Brazil,Claro (America Movil),True,2020-07-08 00:00:00+00:00,Brazil,Claro,True,Brazil,Claro Brasil (incl. Embratel),True
+16 Dec 2024,BRA,Brazil,Vivo,Launched,High,7244,platinum-focus,mno,True,True,True,,Brazil,Vivo (Telefonica),True,2020-07-23 00:00:00+00:00,Brazil,Telefonica (Vivo),True,Brazil,Telefonica Brasil (Vivo),True
+16 Dec 2024,ECU,Ecuador,Movistar,Not launched,Unknown,7400,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,ECU,Ecuador,Claro,Not launched,Medium,7401,bronze-focus,mno,True,True,,,Ecuador,Claro (America Movil),False,,Ecuador,Claro,False,,,
+16 Dec 2024,ECU,Ecuador,CNT,Not launched,Medium,7402,bronze-focus,mno,True,True,,,Ecuador,CNT,False,,Ecuador,CNT EP,False,,,
+16 Dec 2024,EGY,Egypt,Orange,Not launched,Unknown,6020,silver-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,EGY,Egypt,Vodafone,Not launched,Unknown,6021,silver-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,EGY,Egypt,e& egypt,Not launched,High,6022,silver-focus,mno,True,True,,,Egypt,We (Telecom Egypt),False,,Egypt,Telecom Egypt,False,Egypt,Telecom Egypt,False
+16 Dec 2024,EGY,Egypt,WE,Not launched,Unknown,6023,silver-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,SLV,El Salvador,Claro,Not launched,Unknown,7060,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,SLV,El Salvador,Digicel,Not launched,Unknown,7061,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,SLV,El Salvador,Tigo,Not launched,Unknown,7062,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,SLV,El Salvador,Movistar,Not launched,High,7063,bronze-focus,mno,True,True,,,El Salvador,Movistar,False,,El Salvador,Movistar,False,El Salvador,Telefonica Moviles El Salvador (Movistar),False
+16 Dec 2024,FIN,Finland,DNA,Launched,High,2440,bronze-focus,mno,True,True,True,,Finland,DNA,True,2019-12-17 00:00:00+00:00,Finland,DNA,True,Finland,DNA Finland,True
+16 Dec 2024,FIN,Finland,Elisa,Launched,High,2442,bronze-focus,mno,True,True,True,,Finland,Elisa,True,2019-07-03 00:00:00+00:00,Finland,Elisa,True,Finland,Elisa Corporation,True
+16 Dec 2024,FIN,Finland,Telia,Launched,High,24418,bronze-focus,mno,True,True,True,,Finland,Telia,True,2019-10-09 00:00:00+00:00,,,,Finland,Telia Finland,True
+16 Dec 2024,FRA,France,Orange,Launched,High,2080,silver-focus,mno,True,True,True,,France,Orange,True,2020-12-03 00:00:00+00:00,France,Orange,True,France,Orange France,True
+16 Dec 2024,FRA,France,SFR,Launched,High,2085,silver-focus,mno,True,True,True,,France,SFR (Altice Europe),True,2020-11-20 00:00:00+00:00,France,Altice (SFR),True,France,Altice France (SFR),True
+16 Dec 2024,FRA,France,Free Mobile,Launched,High,2087,silver-focus,mno,True,True,True,,France,Free Mobile (Iliad),True,2020-12-16 00:00:00+00:00,France,Free,True,France,Free Mobile,True
+16 Dec 2024,FRA,France,Bouygues,Launched,High,20810,silver-focus,mno,True,True,True,,France,Bouygues Telecom,True,2020-12-01 00:00:00+00:00,France,Bouygues Telecom,True,France,Bouygues Telecom,True
+16 Dec 2024,CRI,Costa Rica,Kölbi,Not launched,Unknown,7120,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,CRI,Costa Rica,Claro,Not launched,High,7121,bronze-focus,mno,True,True,,,Costa Rica,Claro (America Movil),False,,Costa Rica,Claro,False,Costa Rica,Claro Costa Rica,False
+16 Dec 2024,CRI,Costa Rica,Liberty,Launched,Medium,7122,bronze-focus,mno,True,True,,,Costa Rica,Liberty (Liberty Latin America),True,2024-06-28 00:00:00+00:00,,,,Costa Rica,Liberty Costa Rica (formerly Cabletica),True
+16 Dec 2024,DEU,Germany,Telekom,Launched,High,2620,silver-focus,mno,True,True,True,,Germany,Telekom (Deutsche Telekom),True,2019-09-05 00:00:00+00:00,Germany,Deutsche Telekom (T-Mobile),True,Germany,Telekom Deutschland,True
+16 Dec 2024,DEU,Germany,Vodafone,Launched,High,2621,silver-focus,mno,True,True,True,,Germany,Vodafone,True,2019-07-17 00:00:00+00:00,Germany,Vodafone,True,Germany,Vodafone Germany,True
+16 Dec 2024,DEU,Germany,O2,Launched,High,2623,silver-focus,mno,True,True,True,,Germany,O2 (Telefonica),True,2020-10-06 00:00:00+00:00,Germany,Telefonica Deutschland (O2),True,,,
+16 Dec 2024,GRC,Greece,Cosmote,Launched,High,2020,silver-focus,mno,True,True,True,,Greece,Cosmote (OTE),True,2020-12-17 00:00:00+00:00,Greece,Cosmote,True,Greece,Cosmote,True
+16 Dec 2024,GRC,Greece,Vodafone,Launched,High,2023,silver-focus,mno,True,True,True,,Greece,Vodafone,True,2021-01-05 00:00:00+00:00,Greece,Vodafone,True,Greece,Vodafone Greece,True
+16 Dec 2024,GRC,Greece,Nova,Launched,High,2026,silver-focus,mno,True,True,True,,Greece,NOVA,True,2020-12-18 00:00:00+00:00,Greece,NOVA,False,Greece,NOVA (incl. Wind Hellas),True
+16 Dec 2024,GTM,Guatemala,Claro,Launched,High,7040,bronze-focus,mno,True,True,True,,Guatemala,Claro/Movistar (America Movil),True,2022-07-19 00:00:00+00:00,Guatemala,Claro,True,Guatemala,Claro Guatemala,True
+16 Dec 2024,GTM,Guatemala,Tigo,Launched,High,7041,bronze-focus,mno,True,True,True,,Guatemala,Tigo (Millicom),False,,Guatemala,Tigo,True,Guatemala,Tigo Guatemala,True
+16 Dec 2024,HND,Honduras,Claro,Not launched,Unknown,7080,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,HND,Honduras,Tigo,Not launched,Low,7081,bronze-focus,mno,True,True,,,,,,,Honduras,Millicom (Tigo),False,,,
+16 Dec 2024,HKG,Hong Kong,csl,Launched,High,4540,bronze-focus,mno,True,True,True,,Hong Kong; SAR China,csl (HKT),True,2020-04-02 00:00:00+00:00,,,,Hong Kong,HKT (incl. CSL),True
+16 Dec 2024,HKG,Hong Kong,3,Launched,Low,4542,bronze-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,HKG,Hong Kong,SmarTone,Launched,High,4543,bronze-focus,mno,True,True,True,,Hong Kong; SAR China,SmarTone,True,2020-05-27 00:00:00+00:00,Hong Kong SAR,Smartone,True,Hong Kong,SmarTone,True
+16 Dec 2024,HKG,Hong Kong,CMHK,Launched,Medium,4548,bronze-focus,mno,True,True,True,,,,,,,,,Hong Kong,China Mobile Hong Kong (CMHK),True
+16 Dec 2024,HUN,Hungary,Yettel,Launched,High,2160,bronze-focus,mno,True,True,True,,Hungary,Yettel (PPF),True,2021-11-30 00:00:00+00:00,Hungary,Yettel,True,Hungary,Yettel Hungary,True
+16 Dec 2024,HUN,Hungary,Telekom,Launched,High,2162,bronze-focus,mno,True,True,True,,Hungary,Magyar Telekom,True,2020-04-09 00:00:00+00:00,Hungary,Magyar Telekom,True,Hungary,Magyar Telekom,True
+16 Dec 2024,HUN,Hungary,Vodafone,Launched,High,2163,bronze-focus,mno,True,True,True,,Hungary,Vodafone  (Antenna Hungaria),True,2019-10-15 00:00:00+00:00,Hungary,Vodafone,True,Hungary,Vodafone Hungary,True
+16 Dec 2024,HUN,Hungary,DIGIMobil,Not launched,Low,2167,bronze-focus,mno,True,True,,,Hungary,DigiMobil (Antenna Hungaria) (Merged Q2 2023),False,,,,,,,
+16 Dec 2024,IND,India,Vi,Not launched,High,4040,gold-focus,mno,True,True,,,India,Vi,False,,India,Vodafone Idea (VI),False,India,"Vi (Vodafone Idea Limited, VIL)",False
+16 Dec 2024,IND,India,Airtel,Launched,High,4041,gold-focus,mno,True,True,True,,India,Airtel (Bharti Airtel),True,2022-10-06 00:00:00+00:00,India,Bharti Airtel,True,India,Bharti Airtel,True
+16 Dec 2024,IND,India,Jio,Launched,High,4045,gold-focus,mno,True,True,True,,,,,,India,Reliance (Jio),True,India,Reliance Jio Infocomm (Jio),True
+16 Dec 2024,IDN,Indonesia,Indosat,Launched,High,5101,titanium-focus,mno,True,True,True,,Indonesia,Indosat Ooredoo Hutchison,True,2021-06-22 00:00:00+00:00,Indonesia,Indosat Ooredoo (im3),True,Indonesia,Indosat Ooredoo Hutchison (IOH),True
+16 Dec 2024,IDN,Indonesia,XL,Launched,High,5104,titanium-focus,mno,True,True,True,,Indonesia,XL (Axiata),False,,Indonesia,XL Axiata,True,Indonesia,XL Axiata,True
+16 Dec 2024,IDN,Indonesia,Smartfren,Launched,High,5105,titanium-focus,mno,True,True,,,Indonesia,Smartfren,False,,Indonesia,Smartfren,False,Indonesia,Smart Telecom (Smartfren),True
+16 Dec 2024,IDN,Indonesia,Telkomsel,Launched,High,5106,titanium-focus,mno,True,True,True,,Indonesia,Telkomsel (Telkom Indonesia),True,2021-05-27 00:00:00+00:00,Indonesia,Telkomsel,True,Indonesia,Telkomsel (Telekomunikasi Selular),True
+16 Dec 2024,IDN,Indonesia,3,Launched,Low,51010,titanium-focus,mno,True,True,True,01/03/2022,,,,,,,,,,
+16 Dec 2024,IRQ,Iraq,Asiacell,Not launched,Low,4180,bronze-focus,mno,True,True,,,,,,,Iraq,Asiacell,False,,,
+16 Dec 2024,IRQ,Iraq,Korek,Not launched,Unknown,4181,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,IRQ,Iraq,Zain,Not launched,Unknown,4182,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,IRL,Ireland,Vodafone,Launched,High,2720,bronze-focus,mno,True,True,True,,Ireland,Vodafone,True,2019-08-14 00:00:00+00:00,Ireland,Vodafone,True,Ireland,Vodafone Ireland,True
+16 Dec 2024,IRL,Ireland,3,Launched,Low,2721,bronze-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,IRL,Ireland,eir,Launched,High,2722,bronze-focus,mno,True,True,True,,Ireland,eir,True,2019-10-24 00:00:00+00:00,,,,Ireland,eir Mobile,True
+16 Dec 2024,ISR,Israel,Partner,Launched,High,4250,bronze-focus,mno,True,True,True,,Israel,Partner,True,2020-09-29 00:00:00+00:00,Israel,Partner,True,Israel,Partner Communications Company,True
+16 Dec 2024,ISR,Israel,Cellcom,Launched,High,4251,bronze-focus,mno,True,True,True,,Israel,Cellcom,True,2020-12-31 00:00:00+00:00,Israel,Cellcom (inc. Golan),True,Israel,Cellcom,True
+16 Dec 2024,ISR,Israel,Pelephone,Launched,High,4252,bronze-focus,mno,True,True,True,,Israel,Pelephone (Bezeq),True,2020-09-29 00:00:00+00:00,Israel,Pelephone,True,Israel,Pelephone,True
+16 Dec 2024,ISR,Israel,Hot Mobile,Launched,High,4254,bronze-focus,mno,True,True,True,,Israel,HOT Mobile (Altice Europe),True,2020-09-29 00:00:00+00:00,Israel,Altice Group (Hot Mobile),True,Israel,HOT Mobile,True
+16 Dec 2024,PSE,Palestine,Jawwal,Not launched,Unknown,42519,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PSE,Palestine,Ooredoo,Not launched,Unknown,42520,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,ITA,Italy,Vodafone,Launched,High,2224,gold-focus,mno,True,True,True,,Italy,Vodafone,True,2019-06-16 00:00:00+00:00,Italy,Vodafone,True,Italy,Vodafone Italy,True
+16 Dec 2024,ITA,Italy,Iliad,Launched,High,22220,gold-focus,mno,True,True,True,,Italy,Iliad,True,2020-12-22 00:00:00+00:00,Italy,Iliad,False,Italy,Iliad Italy,True
+16 Dec 2024,ITA,Italy,WindTre,Launched,Medium,22231,gold-focus,mno,True,True,True,,,,,,,,,Italy,WINDTRE,True
+16 Dec 2024,IND,India,BSNL,Not launched,High,4046,gold-focus,mno,True,True,,,India,BSNL,False,,India,BSNL,False,India,Bharat Sanchar Nigam Limited (BSNL),False
+16 Dec 2024,JPN,Japan,NTT docomo,Launched,High,4400,titanium-focus,mno,True,True,True,,Japan,NTT DOCOMO,True,2020-03-25 00:00:00+00:00,Japan,NTT DoCoMo,True,Japan,NTT DOCOMO,True
+16 Dec 2024,JPN,Japan,SoftBank,Launched,High,4401,titanium-focus,mno,True,True,True,,Japan,SoftBank,True,2020-03-27 00:00:00+00:00,Japan,Softbank / Ymobile Corp,True,Japan,SoftBank Corp,True
+16 Dec 2024,JPN,Japan,au,Launched,Medium,4402,titanium-focus,mno,True,True,True,,,,,,,,,Japan,KDDI (au),True
+16 Dec 2024,JPN,Japan,Rakuten,Launched,Medium,4408,titanium-focus,mno,True,True,True,,,,,,Japan,Rakuten,True,,,
+16 Dec 2024,JOR,Jordan,Zain,Launched,High,4160,bronze-focus,mno,True,True,,,Jordan,Zain,True,2023-12-06 00:00:00+00:00,Jordan,Zain,False,Jordan,Zain Jordan,True
+16 Dec 2024,JOR,Jordan,Umniah,Launched,High,4162,bronze-focus,mno,True,True,,,Jordan,Umniah (Batelco),True,2023-05-17 00:00:00+00:00,Jordan,Umniah,False,Jordan,Umniah,True
+16 Dec 2024,JOR,Jordan,Orange,Launched,High,4163,bronze-focus,mno,True,True,,,Jordan,Orange (Jordan Telecom),True,2023-07-11 00:00:00+00:00,Jordan,Orange,True,Jordan,Orange Jordan,True
+16 Dec 2024,KWT,Kuwait,Zain,Launched,High,4190,silver-focus,mno,True,True,True,,Kuwait,Zain,True,2019-06-15 00:00:00+00:00,Kuwait,Zain,True,Kuwait,Zain Kuwait,True
+16 Dec 2024,KWT,Kuwait,Ooredoo,Launched,High,4191,silver-focus,mno,True,True,True,,Kuwait,Ooredoo (NMTC),True,2019-06-20 00:00:00+00:00,Kuwait,Ooredoo,True,Kuwait,Ooredoo Kuwait,True
+16 Dec 2024,KWT,Kuwait,stc,Launched,High,4192,silver-focus,mno,True,True,True,,Kuwait,STC,True,2019-06-15 00:00:00+00:00,Kuwait,STC (formerly Viva),True,Kuwait,STC Kuwait,True
+16 Dec 2024,AUS,Australia,Telstra,Launched,High,5050,platinum-focus,mno,True,True,True,,Australia,Telstra,True,2019-05-28 00:00:00+00:00,Australia,Telstra,True,,,
+16 Dec 2024,AUS,Australia,Optus,Launched,High,5051,platinum-focus,mno,True,True,True,,Australia,Optus (Singtel),True,2019-08-29 00:00:00+00:00,Australia,Optus,True,Australia,Optus Mobile,True
+16 Dec 2024,AUS,Australia,Vodafone,Launched,Low,5052,platinum-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,ITA,Italy,Fastweb,Launched,High,22213,gold-focus,mno,True,True,True,,Italy,Fastweb (Swisscom),True,2020-12-11 00:00:00+00:00,Italy,Fastweb,True,Italy,Fastweb,True
+16 Dec 2024,ITA,Italy,TIM,Launched,High,22214,gold-focus,mno,True,True,True,,Italy,TIM (Telecom Italia),True,2019-06-24 00:00:00+00:00,Italy,TIM,True,Italy,Telecom Italia (TIM),True
+16 Dec 2024,MKD,North Macedonia,Makedonski Telekom,Launched,High,2940,bronze-focus,mno,True,True,,,North Macedonia,Makedonski Telekom,True,2022-02-17 00:00:00+00:00,North Macedonia,Makedonski Telekom (T-Mobile),False,North Macedonia,Makedonski Telekom (Telekom),True
+16 Dec 2024,MKD,North Macedonia,A1,Launched,High,2942,bronze-focus,mno,True,True,True,01/05/2022,North Macedonia,A1 Macedonia (A1 Telekom Austria),True,2022-03-03 00:00:00+00:00,,,,North Macedonia,A1 Macedonia,True
+16 Dec 2024,MYS,Malaysia,Maxis,Launched,High,5023,gold-focus,mno,True,True,True,01/08/2023,Malaysia,Maxis,True,2023-08-15 00:00:00+00:00,Malaysia,Maxis,False,Malaysia,Maxis Mobile,True
+16 Dec 2024,MYS,Malaysia,Celcom,Launched,High,5024,gold-focus,mno,True,True,True,,Malaysia,Celcom (Axiata) (Merged Q4 2022),False,2022-11-01 00:00:00+00:00,Malaysia,Celcom Axiata,True,,,
+16 Dec 2024,MYS,Malaysia,Yes,Launched,High,5028,gold-focus,mno,True,True,True,,Malaysia,Yes (YTL Communications),True,2021-12-16 00:00:00+00:00,Malaysia,YTL Communications (Yes),True,Malaysia,YTL Communications (Yes),True
+16 Dec 2024,MYS,Malaysia,Digi,Launched,High,50210,gold-focus,mno,True,True,True,,Malaysia,Digi (CelcomDigi),True,2022-11-10 00:00:00+00:00,Malaysia,DiGi,False,,,
+16 Dec 2024,MYS,Malaysia,U Mobile,Launched,High,50211,gold-focus,mno,True,True,True,,Malaysia,U Mobile,True,2022-11-03 00:00:00+00:00,Malaysia,U Mobile,True,Malaysia,U Mobile (Malaysia),True
+16 Dec 2024,MYS,Malaysia,Unifi,Launched,High,50217,gold-focus,mno,True,True,True,,Malaysia,unifi (Telekom Malaysia),True,2023-03-19 00:00:00+00:00,Malaysia,"Telekom Malaysia (Unifi, Webe Digital)",False,,,
+16 Dec 2024,MDV,Maldives,Dhiraagu,Launched,High,4720,bronze-focus,mno,True,True,True,01/08/2019,Maldives,Dhiraagu (Batelco),True,2019-08-02 00:00:00+00:00,Maldives,Dhiraagu,True,Maldives,Dhivehi Raajjeyge Gulhun (Dhiraagu),True
+16 Dec 2024,MDV,Maldives,Ooredoo,Launched,High,4721,bronze-focus,mno,True,True,True,01/12/2020,Maldives,Ooredoo (NMTC),True,2020-12-21 00:00:00+00:00,Maldives,Ooredoo,True,Maldives,Ooredoo Maldives,True
+16 Dec 2024,MEX,Mexico,Telcel,Launched,High,3341,gold-focus,mno,True,True,True,,Mexico,Telcel (America Movil),True,2022-02-22 00:00:00+00:00,Mexico,"America Movil (Telcel, Telmex)",True,Mexico,Radiomovil Dipsa (Telcel),True
+16 Dec 2024,MEX,Mexico,AT&T,Launched,High,3343,gold-focus,mno,True,True,True,,Mexico,AT&T,True,2022-05-23 00:00:00+00:00,Mexico,AT&T,True,Mexico,AT&T Mexico,True
+16 Dec 2024,MAR,Morocco,Orange,Not launched,Low,6040,silver-focus,mno,True,True,,,,,,,,,,Morocco,Orange Morocco,False
+16 Dec 2024,MAR,Morocco,Maroc Telecom,Not launched,High,6041,silver-focus,mno,True,True,,,Morocco,Maroc Telecom (e&),False,,Morocco,IAM Maroc Telecom,False,Morocco,Maroc Telecom (IAM),False
+16 Dec 2024,MAR,Morocco,inwi,Not launched,Medium,6042,silver-focus,mno,True,True,,,,,,,Morocco,Inwi (Wana),False,Morocco,Wana (Inwi),False
+16 Dec 2024,MMR,Myanmar,MPT,Not launched,Low,4140,bronze-focus,mno,True,True,,,Myanmar,MPT,False,,,,,,,
+16 Dec 2024,MMR,Myanmar,Ooredoo,Not launched,Medium,4141,bronze-focus,mno,True,True,,,Myanmar,Ooredoo,False,,Myanmar,Ooredoo,False,,,
+16 Dec 2024,MMR,Myanmar,ATOM,Not launched,Low,4142,bronze-focus,mno,True,True,,,,,,,,,,Myanmar,Atom Myanmar (formerly Telenor),False
+16 Dec 2024,MMR,Myanmar,Mytel,Not launched,Medium,4144,bronze-focus,mno,True,True,,,Myanmar,MyTel,False,,Myanmar,Mytel,False,,,
+16 Dec 2024,NLD,Netherlands,Vodafone,Launched,Medium,2043,bronze-focus,mno,True,True,True,,Netherlands,VodafoneZiggo (Liberty Global / Vodafone),True,2020-04-28 00:00:00+00:00,,,,,,
+16 Dec 2024,NLD,Netherlands,KPN,Launched,High,2047,bronze-focus,mno,True,True,True,,Netherlands,KPN,True,2020-07-28 00:00:00+00:00,Netherlands,KPN,True,Netherlands,KPN,True
+16 Dec 2024,NLD,Netherlands,Odido,Launched,High,20414,bronze-focus,mno,True,True,True,01/07/2020,Netherlands,ODIDO,True,2020-07-28 00:00:00+00:00,Netherlands,Odido,True,Netherlands,Odido (formerly T-Mobile Netherlands),True
+16 Dec 2024,NZL,New Zealand,One NZ,Launched,High,5301,gold-focus,mno,True,True,True,,New Zealand,One,True,2019-12-10 00:00:00+00:00,,,,New Zealand,One New Zealand (formerly Vodafone NZ),True
+16 Dec 2024,NZL,New Zealand,Spark,Launched,High,5304,gold-focus,mno,True,True,True,,New Zealand,Spark,True,2019-11-28 00:00:00+00:00,New Zealand,Spark,True,New Zealand,Spark,True
+16 Dec 2024,NZL,New Zealand,2degrees,Launched,High,5307,gold-focus,mno,True,True,True,,New Zealand,2degrees,True,2022-02-28 00:00:00+00:00,New Zealand,2degrees,True,New Zealand,"2degrees (incl. Orcon, Slingshot)",True
+16 Dec 2024,NIC,Nicaragua,Claro,Not launched,Low,7100,bronze-focus,mno,True,True,,,,,,,,,,Nicaragua,Claro Nicaragua,False
+16 Dec 2024,NIC,Nicaragua,Tigo,Not launched,Unknown,7101,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,NOR,Norway,Telenor,Launched,High,2420,gold-focus,mno,True,True,True,,Norway,Telenor,True,2020-03-13 00:00:00+00:00,Norway,Telenor,True,Norway,Telenor Norge,True
+16 Dec 2024,NOR,Norway,Telia,Launched,High,2421,gold-focus,mno,True,True,True,,Norway,Telia,True,2020-05-12 00:00:00+00:00,Norway,Telia,True,Norway,Telia Norge,True
+16 Dec 2024,NOR,Norway,ice,Launched,High,2425,gold-focus,mno,True,True,True,,Norway,Ice,True,2021-11-18 00:00:00+00:00,Norway,Ice.net,True,Norway,ice,True
+16 Dec 2024,OMN,Oman,Omantel,Launched,High,4220,silver-focus,mno,True,True,True,,Oman,Omantel,True,2019-12-16 00:00:00+00:00,Oman,Omantel,True,Oman,Oman Telecommunications Company (Omantel),True
+16 Dec 2024,OMN,Oman,Ooredoo,Launched,High,4221,silver-focus,mno,True,True,True,,Oman,Ooredoo,True,2020-05-04 00:00:00+00:00,Oman,Ooredoo,True,Oman,Ooredoo Oman,True
+16 Dec 2024,OMN,Oman,Vodafone,Launched,High,4225,silver-focus,mno,True,True,True,01/03/2022,Oman,Vodafone (OFT),True,2023-09-30 00:00:00+00:00,Oman,Vodafone Oman (OFT),False,Oman,Oman Future Telecommunications (Vodafone),True
+16 Dec 2024,PAK,Pakistan,Jazz,Not launched,Medium,4100,bronze-focus,mno,True,True,,,Pakistan,Jazz (VEON),False,,Pakistan,Jazz,False,,,
+16 Dec 2024,PAK,Pakistan,Ufone,Not launched,Unknown,4102,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PAK,Pakistan,Zong,Not launched,Medium,4103,bronze-focus,mno,True,True,,,Pakistan,Zong (China Mobile),False,,Pakistan,China Mobile Pakistan (Zong),False,,,
+16 Dec 2024,PAK,Pakistan,Telenor,Not launched,Unknown,4105,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PAN,Panama,+Móvil,Not launched,Unknown,7140,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PAN,Panama,Tigo,Not launched,Unknown,7141,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PAN,Panama,Digicel,Not launched,Unknown,7143,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PRY,Paraguay,VOX,Not launched,Unknown,7440,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PRY,Paraguay,Claro,Not launched,Unknown,7441,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PRY,Paraguay,Tigo,Not launched,Low,7443,bronze-focus,mno,True,True,,,,,,,Paraguay,Millicom (Tigo),False,,,
+16 Dec 2024,PRY,Paraguay,Personal,Not launched,Unknown,7444,bronze-focus,mno,True,True,,,,,,,,,,,,
+16 Dec 2024,PER,Peru,Movistar,Launched,High,7160,bronze-focus,mno,True,True,True,,Peru,Movistar (Telefonica),False,,Peru,Telefonica Movistar,False,Peru,"Telefonica del Peru (TdP, Movistar)",True
+16 Dec 2024,PER,Peru,Claro,Launched,High,7162,bronze-focus,mno,True,True,True,,Peru,Claro (America Movil),False,2021-03-02 00:00:00+00:00,Peru,"America Movil (Claro, Olo, TVS)",True,Peru,Claro Peru,True
+16 Dec 2024,PER,Peru,Bitel,Not launched,High,7163,bronze-focus,mno,True,True,,,Peru,Bitel (Viettel),False,,Peru,Bitel,False,Peru,Bitel (Viettel Peru),False
+16 Dec 2024,PER,Peru,Entel,Launched,High,7164,bronze-focus,mno,True,True,True,,Peru,Entel,False,2021-03-10 00:00:00+00:00,Peru,Americatel /Entel,True,Peru,Entel Peru,True
+16 Dec 2024,PHL,Philippines,Globe,Launched,High,5151,platinum-focus,mno,True,True,True,,Philippines,Globe Telecom,True,2019-06-28 00:00:00+00:00,Philippines,Globe (Bayantel),True,Philippines,Globe Telecom (incl. Innove),True
+16 Dec 2024,PHL,Philippines,Smart,Launched,High,5152,platinum-focus,mno,True,True,True,,Philippines,Smart (PLDT),True,2020-07-30 00:00:00+00:00,,,,Philippines,PLDT Inc. (incl. Smart Communications),True
+16 Dec 2024,POL,Poland,T-Mobile,Launched,Medium,2600,gold-focus,mno,True,True,True,,,,,,,,,Poland,T-Mobile Poland,True
+16 Dec 2024,POL,Poland,Orange,Launched,High,2601,gold-focus,mno,True,True,True,,Poland,Orange,True,2020-07-01 00:00:00+00:00,Poland,Orange Polska,True,Poland,Orange Poland,True
+16 Dec 2024,POL,Poland,Play,Launched,High,2603,gold-focus,mno,True,True,True,,Poland,Play (Iliad),True,2020-06-22 00:00:00+00:00,Poland,Play Communications (P4),True,,,
+16 Dec 2024,PHL,Philippines,DITO,Launched,High,51511,platinum-focus,mno,True,True,True,01/03/2021,Philippines,Dito Telecommunity,False,2022-02-28 00:00:00+00:00,Philippines,Dito Telecommunity Corp (formerly Mislatel),False,Philippines,DITO Telecommunity Corp,True
+16 Dec 2024,POL,Poland,Plus,Launched,Low,26036,gold-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,PRT,Portugal,Vodafone,Launched,High,2680,bronze-focus,mno,True,True,True,,Portugal,Vodafone,True,2021-11-30 00:00:00+00:00,Portugal,Vodafone Portugal,True,Portugal,Vodafone Portugal,True
+16 Dec 2024,PRT,Portugal,NOS,Launched,High,2681,bronze-focus,mno,True,True,True,,Portugal,NOS,True,2021-11-26 00:00:00+00:00,Portugal,NOS,True,Portugal,Nos,True
+16 Dec 2024,PRT,Portugal,MEO,Launched,High,2684,bronze-focus,mno,True,True,True,,Portugal,MEO (Altice Europe),True,2022-01-01 00:00:00+00:00,Portugal,Altice Portugal (Meo),True,Portugal,Altice Portugal (MEO),True
+16 Dec 2024,PRI,Puerto Rico,Claro,Launched,High,3304,bronze-focus,mno,True,True,True,,Puerto Rico,Claro (America Movil),True,2022-04-13 00:00:00+00:00,Puerto Rico,America Movil (Claro),True,,,
+16 Dec 2024,PRI,Puerto Rico,Liberty,Launched,High,3305,bronze-focus,mno,True,True,True,,Puerto Rico,Liberty (Liberty Latin America),True,2020-06-30 00:00:00+00:00,Puerto Rico,Liberty Latin America (AT&T),True,Puerto Rico,Liberty Puerto Rico,True
+16 Dec 2024,QAT,Qatar,Vodafone,Launched,High,4271,silver-focus,mno,True,True,True,,Qatar,Vodafone,True,2019-04-23 00:00:00+00:00,Qatar,Vodafone,True,Qatar,Vodafone Qatar,True
+16 Dec 2024,ROU,Romania,Vodafone,Launched,High,2260,bronze-focus,mno,True,True,True,,Romania,Vodafone,True,2019-06-26 00:00:00+00:00,Romania,Vodafone,True,Romania,Vodafone Romania,True
+16 Dec 2024,ROU,Romania,Telekom,Launched,High,2262,bronze-focus,mno,True,True,True,01/04/2023,Romania,Telekom Romania (OTE),True,2023-06-14 00:00:00+00:00,Romania,Telekom Romania,False,Romania,Telekom Romania Mobile Communications,True
+16 Dec 2024,QAT,Qatar,Ooredoo,Launched,High,4270,silver-focus,mno,True,True,True,,Qatar,Ooredoo,True,2019-12-11 00:00:00+00:00,Qatar,Ooredoo,True,Qatar,Ooredoo Qatar,True
+16 Dec 2024,ROU,Romania,Digi Mobil,Launched,High,2263,bronze-focus,mno,True,True,True,,Romania,Digi Mobil (RCS & RDS),True,2019-07-10 00:00:00+00:00,Romania,RCS & RDS (Digi Mobil),True,Romania,Digi Romania (formerly RCS&RDS),True
+16 Dec 2024,ROU,Romania,Orange,Launched,High,2264,bronze-focus,mno,True,True,True,,Romania,Orange,True,2019-11-05 00:00:00+00:00,Romania,Orange,True,Romania,Orange Romania,True
+16 Dec 2024,ROU,Romania,Orange,Launched,High,2264,bronze-focus,mno,True,True,True,,Romania,Orange,True,2019-11-05 00:00:00+00:00,Romania,Orange Romania Communications,False,Romania,Orange Romania,True
+16 Dec 2024,SAU,Saudi Arabia,stc,Launched,High,4200,gold-focus,mno,True,True,True,,Saudi Arabia,STC,True,2019-06-20 00:00:00+00:00,Saudi Arabia,STC,True,Saudi Arabia,Saudi Telecom Company (stc),True
+16 Dec 2024,SAU,Saudi Arabia,Zain,Launched,High,4202,gold-focus,mno,True,True,True,,Saudi Arabia,Zain,True,2019-10-07 00:00:00+00:00,Saudi Arabia,Zain,True,Saudi Arabia,Zain Saudi Arabia,True
+16 Dec 2024,SRB,Serbia,Yettel,Not launched,Low,2200,bronze-focus,mno,True,True,,,Serbia,Yettel (PPF),False,,,,,,,
+16 Dec 2024,SRB,Serbia,mts,Not launched,High,2201,bronze-focus,mno,True,True,,,Serbia,mts (Telekom Srbija),False,,Serbia,MTS,False,Serbia,Telekom Srbija (MTS),False
+16 Dec 2024,SAU,Saudi Arabia,Mobily,Launched,High,4201,gold-focus,mno,True,True,True,,Saudi Arabia,Mobily (Etihad Etisalat),True,2019-12-16 00:00:00+00:00,Saudi Arabia,Mobily,True,Saudi Arabia,Mobily (Etihad Etisalat),True
+16 Dec 2024,SRB,Serbia,A1,Not launched,Medium,2202,bronze-focus,mno,True,True,,,Serbia,A1 (A1 Telekom Austria),False,,Serbia,A1 (VIP Mobile),False,,,
+16 Dec 2024,SGP,Singapore,Singtel,Launched,High,5250,platinum-focus,mno,True,True,True,,Singapore,Singtel,True,2020-09-01 00:00:00+00:00,Singapore,SingTel,True,Singapore,Singtel,True
+16 Dec 2024,SGP,Singapore,M1,Launched,High,5252,platinum-focus,mno,True,True,True,,Singapore,M1,True,2020-09-24 00:00:00+00:00,Singapore,M1,True,Singapore,M1,True
+16 Dec 2024,SGP,Singapore,StarHub,Launched,High,5253,platinum-focus,mno,True,True,True,,Singapore,StarHub,True,2020-08-18 00:00:00+00:00,Singapore,StarHub,True,Singapore,StarHub,True
+16 Dec 2024,SGP,Singapore,SIMBA,Launched,High,5256,platinum-focus,mno,True,True,True,01/01/2022,Singapore,TPG SIMBA,True,2023-09-12 00:00:00+00:00,Singapore,SIMBA (Formerley TPG Telecom),True,Singapore,SIMBA Telecom (formerly TPG Mobile),True
+16 Dec 2024,SVK,Slovakia,Orange,Launched,High,2310,silver-focus,mno,True,True,True,,Slovakia,Orange,True,2021-05-12 00:00:00+00:00,Slovakia,Orange Slovensko,True,Slovakia,Orange Slovakia,True
+16 Dec 2024,SVK,Slovakia,Slovak Telekom,Launched,High,2311,silver-focus,mno,True,True,True,,Slovakia,Slovak Telekom (Deutsche Telekom),True,2020-12-11 00:00:00+00:00,Slovakia,Slovak Telekom,True,Slovakia,Slovak Telekom (incl. DIGI),True
+16 Dec 2024,SVK,Slovakia,4ka,Launched,High,2312,silver-focus,mno,True,True,True,01/04/2021,Slovakia,4ka (SWAN Mobile),True,2021-11-26 00:00:00+00:00,Slovakia,4ka (Swan Telecom),True,Slovakia,SWAN (4ka),True
+16 Dec 2024,SVK,Slovakia,O2,Launched,High,2313,silver-focus,mno,True,True,True,,Slovakia,O2 (PPF),True,2021-09-07 00:00:00+00:00,Slovakia,O2 Slovakia,True,Slovakia,O2 Slovakia,True
+16 Dec 2024,SVN,Slovenia,Telekom Slovenije,Launched,High,2930,bronze-focus,mno,True,True,True,,Slovenia,Telekom Slovenije,True,2020-07-23 00:00:00+00:00,Slovenia,Telekom Slovenije,True,Slovenia,Telekom Slovenije,True
+16 Dec 2024,SVN,Slovenia,A1,Launched,High,2931,bronze-focus,mno,True,True,True,,Slovenia,A1 (A1 Telekom Austria),True,2021-09-08 00:00:00+00:00,Slovenia,A1 Slovenija,True,Slovenia,A1 Slovenia,True
+16 Dec 2024,SVN,Slovenia,T-2,Not launched,High,2932,bronze-focus,mno,True,True,,,Slovenia,T-2,False,,Slovenia,T-2,False,Slovenia,T-2,False
+16 Dec 2024,SVN,Slovenia,Telemach,Launched,High,2936,bronze-focus,mno,True,True,True,,Slovenia,Telemach Mobil (United),True,2021-06-15 00:00:00+00:00,,,,Slovenia,Telemach (Slovenia),True
+16 Dec 2024,ZAF,South Africa,Telkom,Launched,High,6550,silver-focus,mno,True,True,True,01/06/2023,South Africa,Telkom,False,2022-10-31 00:00:00+00:00,South Africa,Telkom Mobile /8ta,False,South Africa,Telkom South Africa,True
+16 Dec 2024,ZAF,South Africa,Cell C,Not launched,High,6553,silver-focus,mno,True,True,,,South Africa,Cell C,False,,South Africa,Cell C,False,South Africa,Cell C,False
+16 Dec 2024,ZAF,South Africa,MTN,Launched,High,6554,silver-focus,mno,True,True,True,,South Africa,MTN,True,2020-06-30 00:00:00+00:00,South Africa,MTN,True,South Africa,MTN South Africa,True
+16 Dec 2024,ZAF,South Africa,Vodacom,Launched,High,65522,silver-focus,mno,True,True,True,,South Africa,Vodacom,True,2020-05-04 00:00:00+00:00,South Africa,Vodacom,True,South Africa,Vodacom South Africa,True
+16 Dec 2024,KOR,South Korea,SK telecom,Launched,High,4502,bronze-focus,mno,True,True,True,,Korea; South,SK Telecom,True,2018-12-01 00:00:00+00:00,Republic of Korea,SK Telecom,True,South Korea,SK Telecom (SKT),True
+16 Dec 2024,KOR,South Korea,LG U+,Launched,High,4503,bronze-focus,mno,True,True,True,,Korea; South,LG Uplus,True,2018-12-01 00:00:00+00:00,Republic of Korea,LG Uplus,True,South Korea,LG Uplus,True
+16 Dec 2024,KOR,South Korea,KT,Launched,High,4504,bronze-focus,mno,True,True,True,,Korea; South,KT,True,2018-12-01 00:00:00+00:00,Republic of Korea,KT Corporation,True,South Korea,KT Corp,True
+16 Dec 2024,ESP,Spain,Vodafone,Launched,High,2140,gold-focus,mno,True,True,True,,Spain,Vodafone (Zegona),True,2019-06-15 00:00:00+00:00,Spain,Vodafone,True,Spain,Vodafone Spain,True
+16 Dec 2024,ESP,Spain,Orange,Launched,High,2141,gold-focus,mno,True,True,True,,Spain,Orange (MasOrange),True,2020-09-08 00:00:00+00:00,Spain,Orange,True,,,
+16 Dec 2024,ESP,Spain,Yoigo,Launched,High,2142,gold-focus,mno,True,True,True,,Spain,Yoigo (Masmovil) (Merged Q1 2024),False,2019-10-01 00:00:00+00:00,Spain,MASMOVIL (Yoigo),True,,,
+16 Dec 2024,ESP,Spain,Movistar,Launched,High,2144,gold-focus,mno,True,True,True,,Spain,Movistar (Telefonica),True,2020-09-01 00:00:00+00:00,Spain,Telefonica (Movistar),True,Spain,Telefonica Espana (Movistar),True
+16 Dec 2024,SWE,Sweden,Telia,Launched,High,2400,gold-focus,mno,True,True,True,,Sweden,Telia,True,2020-05-25 00:00:00+00:00,,,,Sweden,Telia Sweden,True
+16 Dec 2024,SWE,Sweden,3,Launched,Low,2401,gold-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,SWE,Sweden,Telenor,Launched,High,2405,gold-focus,mno,True,True,True,,Sweden,Telenor,True,2020-10-29 00:00:00+00:00,Sweden,Telenor Sweden,True,Sweden,Telenor Sweden,True
+16 Dec 2024,SWE,Sweden,Tele2,Launched,High,2406,gold-focus,mno,True,True,True,,Sweden,Tele2,True,2020-05-24 00:00:00+00:00,Sweden,Net4Mobility (Tele2 / Telenor jv),False,Sweden,Tele2 Sweden,True
+16 Dec 2024,SWE,Sweden,Tele2,Launched,High,2406,gold-focus,mno,True,True,True,,Sweden,Tele2,True,2020-05-24 00:00:00+00:00,Sweden,Tele2 Sweden,True,Sweden,Tele2 Sweden,True
+16 Dec 2024,CHE,Switzerland,Sunrise,Launched,High,2280,bronze-focus,mno,True,True,True,,Switzerland,Sunrise (Liberty Global),True,2019-05-02 00:00:00+00:00,Switzerland,Sunrise Communications (Yallo),True,Switzerland,Sunrise (formerly Sunrise UPC),True
+16 Dec 2024,CHE,Switzerland,Salt,Launched,High,2281,bronze-focus,mno,True,True,True,,Switzerland,Salt (NJJ),True,2020-08-31 00:00:00+00:00,Switzerland,Salt,True,Switzerland,Salt (Switzerland),True
+16 Dec 2024,CHE,Switzerland,Swisscom,Launched,High,22812,bronze-focus,mno,True,True,True,,Switzerland,Swisscom,True,2019-04-17 00:00:00+00:00,Switzerland,Swisscom,True,Switzerland,Swisscom,True
+16 Dec 2024,LKA,Sri Lanka,Mobitel,Launched,Medium,4130,bronze-focus,mno,True,True,,,Sri Lanka,Mobitel (Sri Lanka Telecom),False,,Sri Lanka,Mobitel,True,,,
+16 Dec 2024,LKA,Sri Lanka,Dialog,Launched,High,4131,bronze-focus,mno,True,True,True,Jan-24,Sri Lanka,Dialog (Axiata),False,,Sri Lanka,Dialog Axiata,False,Sri Lanka,Dialog Axiata,True
+16 Dec 2024,LKA,Sri Lanka,Airtel,Not launched,Medium,4133,bronze-focus,mno,True,True,,,Sri Lanka,Airtel (Axiata),False,,,,,Sri Lanka,Bharti Airtel Lanka,False
+16 Dec 2024,LKA,Sri Lanka,Hutch,Not launched,High,4134,bronze-focus,mno,True,True,,,Sri Lanka,Hutch (CK Hutchison),False,,Sri Lanka,Hutchinson Telecommunications Lanca (Hutch),False,Sri Lanka,Hutchison Telecommunications Lanka (Hutch),False
+16 Dec 2024,TWN,Taiwan,FarEasTone,Launched,Medium,4661,platinum-focus,mno,True,True,True,,,,,,Taiwan,FarEasTone,True,,,
+16 Dec 2024,TWN,Taiwan,Chunghwa,Launched,High,4664,platinum-focus,mno,True,True,True,,Taiwan; Province of China,Chunghwa Telecom,True,2020-06-30 00:00:00+00:00,Taiwan,Chunghwa Telecom,True,Taiwan,Chunghwa Telecom,True
+16 Dec 2024,TWN,Taiwan,Taiwan Mobile,Launched,High,4666,platinum-focus,mno,True,True,True,,Taiwan; Province of China,Taiwan Mobile,True,2020-07-02 00:00:00+00:00,Taiwan,Taiwan Mobile,True,Taiwan,Taiwan Mobile Company (incl. TWM Solution/TWM Broadband),True
+16 Dec 2024,TWN,Taiwan,Taiwan Mobile,Launched,High,4666,platinum-focus,mno,True,True,True,,Taiwan; Province of China,Taiwan Mobile,True,2020-07-02 00:00:00+00:00,Taiwan,Taiwan Star Mobile,True,Taiwan,Taiwan Mobile Company (incl. TWM Solution/TWM Broadband),True
+16 Dec 2024,THA,Thailand,AIS,Launched,High,5201,bronze-focus,mno,True,True,True,,Thailand,AIS,True,2020-03-02 00:00:00+00:00,Thailand,AIS (AWN),True,Thailand,Advanced Info Service (AIS),True
+16 Dec 2024,THA,Thailand,TrueMove H,Launched,Medium,5203,bronze-focus,mno,True,True,True,,Thailand,TrueMove H (True Corporation),True,2020-03-17 00:00:00+00:00,,,,,,
+16 Dec 2024,THA,Thailand,DTAC,Launched,High,5204,bronze-focus,mno,True,True,True,,Thailand,dtac (Telenor) (Merged Q1 2023),False,2021-02-18 00:00:00+00:00,Thailand,DTAC â TriNet,False,,,
+16 Dec 2024,TUN,Tunisia,Orange,Not launched,Medium,6050,bronze-focus,mno,True,True,,,Tunisia,Orange,False,,,,,Tunisia,Orange Tunisia,False
+16 Dec 2024,TUN,Tunisia,Tunisie Telecom,Not launched,High,6051,bronze-focus,mno,True,True,,,Tunisia,Tunisie Telecom,False,,Tunisia,Tunisie Telecom,False,Tunisia,Tunisie Telecom (TT),False
+16 Dec 2024,TUN,Tunisia,Ooredoo,Not launched,High,6052,bronze-focus,mno,True,True,,,Tunisia,Ooredoo (NMTC),False,,Tunisia,Ooredoo,False,Tunisia,Ooredoo Tunisia,False
+16 Dec 2024,TUR,Turkey,Turkcell,Not launched,High,2860,bronze-focus,mno,True,True,,,Türkiye,Turkcell,False,,Turkey,Turkcell,False,Turkey,Turkcell,False
+16 Dec 2024,TUR,Turkey,Vodafone,Not launched,High,2861,bronze-focus,mno,True,True,,,Türkiye,Vodafone,False,,Turkey,Vodafone Turkey,False,Turkey,Vodafone Turkey,False
+16 Dec 2024,TUR,Turkey,Türk Telekom,Not launched,Medium,2862,bronze-focus,mno,True,True,,,Türkiye,Turk Telekom,False,,,,,Turkey,TT Mobil (Turk Telekom),False
+16 Dec 2024,ARE,United Arab Emirates,e& UAE,Launched,Medium,4240,silver-focus,mno,True,True,True,,,,,,,,,United Arab Emirates,e& UAE (Etisalat UAE),True
+16 Dec 2024,ARE,United Arab Emirates,du,Launched,High,4241,silver-focus,mno,True,True,True,,United Arab Emirates,du,True,2019-06-19 00:00:00+00:00,United Arab Emirates,Du,True,United Arab Emirates,"Du (Emirates Integrated Telecommunication Company, EITC)",True
+16 Dec 2024,GBR,United Kingdom,O2,Launched,High,2347,platinum-focus,mno,True,True,True,,United Kingdom,Virgin Media O2 (Telefonica/Liberty Global),True,2019-10-17 00:00:00+00:00,United Kingdom,Virgin Media O2,True,United Kingdom,O2 UK,True
+16 Dec 2024,GBR,United Kingdom,Vodafone,Launched,High,23415,platinum-focus,mno,True,True,True,,United Kingdom,Vodafone,True,2019-07-03 00:00:00+00:00,United Kingdom,Vodafone,True,United Kingdom,Vodafone UK,True
+16 Dec 2024,GBR,United Kingdom,3,Launched,Low,23420,platinum-focus,mno,True,True,True,,,,,,,,,,,
+16 Dec 2024,GBR,United Kingdom,EE,Launched,High,23430,platinum-focus,mno,True,True,True,,United Kingdom,EE (BT),True,2019-05-30 00:00:00+00:00,United Kingdom,BT (EE),True,United Kingdom,EE,True
+16 Dec 2024,USA,United States of America,Verizon,Launched,High,3102,titanium-focus,mno,True,True,True,,United States of America,Verizon Wireless,True,2018-10-01 00:00:00+00:00,United States,Verizon Wireless,True,United States,Verizon Wireless,True
+16 Dec 2024,USA,United States of America,T-Mobile,Launched,Medium,31011,titanium-focus,mno,True,True,True,,United States of America,T-Mobile (Deutsche Telekom),True,2019-06-28 00:00:00+00:00,,,,,,
+16 Dec 2024,USA,United States of America,T-Mobile,Launched,Medium,31011,titanium-focus,mno,True,True,True,,United States of America,T-Mobile (Deutsche Telekom),True,2019-06-28 00:00:00+00:00,,,,,,
+16 Dec 2024,USA,United States of America,AT&T,Launched,High,31012,titanium-focus,mno,True,True,True,,United States of America,AT&T,True,2019-06-17 00:00:00+00:00,United States,AT&T Mobility,True,United States,AT&T Communications,True
+16 Dec 2024,URY,Uruguay,Antel,Launched,High,7480,bronze-focus,mno,True,True,True,01/06/2023,Uruguay,Antel,True,2023-06-28 00:00:00+00:00,Uruguay,Antel,True,Uruguay,Antel,True
+16 Dec 2024,URY,Uruguay,Movistar,Launched,High,7481,bronze-focus,mno,True,True,,,Uruguay,Movistar (Telefonica),True,2023-08-08 00:00:00+00:00,Uruguay,Movistar,False,Uruguay,Movistar Uruguay,True
+16 Dec 2024,URY,Uruguay,Claro,Launched,Medium,7482,bronze-focus,mno,True,True,,,,,,,Uruguay,America Movil (Claro),False,Uruguay,Claro Uruguay,True
+16 Dec 2024,VEN,Venezuela,Digitel,Not launched,High,7340,bronze-focus,mno,True,True,,,Venezuela,Digitel,False,,Venezuela,Digitel,False,Venezuela,Digitel,False
+16 Dec 2024,VEN,Venezuela,Movistar,Not launched,Low,7341,bronze-focus,mno,True,True,,,,,,,Venezuela,Movistar,False,,,
+16 Dec 2024,VEN,Venezuela,Movilnet,Not launched,Medium,7342,bronze-focus,mno,True,True,,,,,,,Venezuela,Movilnet,False,Venezuela,Movilnet,False

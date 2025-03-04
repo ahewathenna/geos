@@ -1,0 +1,224 @@
+iso3,Country,5G Status,5G Status: Confidence,GSA 5G commercially active,GSMA 5G commercially active,Opensignal 5G commercially active,TeleGeography 5G commercially active
+ABW,Aruba,Not launched,High,False,False,False,False
+AFG,Afghanistan,Not launched,High,False,False,False,False
+AGO,Angola,Launched,High,True,False,False,True
+AIA,Anguilla,Not launched,High,False,False,False,False
+ALB,Albania,Launched,High,False,True,False,True
+AND,Andorra,Not launched,High,False,False,False,False
+ARE,United Arab Emirates,Launched,High,True,True,True,True
+ARG,Argentina,Launched,High,True,True,False,True
+ARM,Armenia,Launched,High,True,False,False,True
+ASM,American Samoa,Launched,High,False,True,False,True
+ATG,Antigua and Barbuda,Not launched,High,False,False,False,False
+AUS,Australia,Launched,High,True,True,True,True
+AUT,Austria,Launched,High,True,True,True,True
+AZE,Azerbaijan,Launched,High,False,False,False,True
+BDI,Burundi,Launched,High,True,False,False,False
+BEL,Belgium,Launched,High,True,True,True,True
+BEN,Benin,Launched,High,False,True,False,False
+BFA,Burkina Faso,Not launched,High,False,False,False,False
+BGD,Bangladesh,Not launched,High,False,False,False,False
+BGR,Bulgaria,Launched,High,True,True,True,True
+BHR,Bahrain,Launched,High,True,True,True,True
+BHS,Bahamas,Not launched,High,False,False,False,False
+BIH,Bosnia and Herzegovina,Not launched,High,False,False,False,False
+BLR,Belarus,Launched,High,False,False,False,True
+BLZ,Belize,Not launched,High,False,False,False,False
+BMU,Bermuda,Launched,High,False,True,False,True
+BOL,Bolivia,Not launched,High,False,False,False,False
+BRA,Brazil,Launched,High,True,True,True,True
+BRB,Barbados,Launched,High,True,False,False,False
+BRN,Brunei,Launched,High,True,True,False,False
+BTN,Bhutan,Launched,High,True,True,False,True
+BWA,Botswana,Launched,High,True,True,False,True
+CAF,Central African Republic,Not launched,High,False,False,False,False
+CAN,Canada,Launched,High,True,True,True,True
+CHE,Switzerland,Launched,High,True,True,True,True
+CHL,Chile,Launched,High,True,True,True,True
+CHN,China,Launched,High,True,True,False,True
+CIV,Côte d'Ivoire,Launched,High,False,True,False,False
+CMR,Cameroon,Not launched,High,False,False,False,False
+COD,Democratic Republic of the Congo,Not launched,High,False,False,False,False
+COG,Republic of Congo,Launched,High,True,True,False,True
+COK,Cook Islands,Not launched,High,False,False,False,False
+COL,Colombia,Launched,High,True,True,True,True
+COM,Comoros,Not launched,High,False,False,False,False
+CPV,Cape Verde,Not launched,High,False,False,False,False
+CRI,Costa Rica,Launched,High,False,True,False,True
+CUB,Cuba,Not launched,High,False,False,False,False
+CYM,Cayman Islands,Launched,High,False,True,False,True
+CYP,Cyprus,Launched,High,True,True,False,True
+CZE,Czech Republic,Launched,High,True,True,True,True
+DEU,Germany,Launched,High,True,True,True,True
+DJI,Djibouti,Not launched,High,False,False,False,False
+DMA,Dominica,Not launched,High,False,False,False,False
+DNK,Denmark,Launched,High,True,True,True,True
+DOM,Dominican Republic,Launched,High,True,True,False,True
+DZA,Algeria,Not launched,High,False,False,False,False
+ECU,Ecuador,Not launched,High,False,False,False,False
+EGY,Egypt,Not launched,High,False,False,False,False
+ERI,Eritrea,Not launched,High,False,False,False,False
+ESP,Spain,Launched,High,True,True,True,True
+EST,Estonia,Launched,High,True,True,False,True
+ETH,Ethiopia,Launched,High,True,True,False,True
+FIN,Finland,Launched,High,True,True,True,True
+FJI,Fiji,Not launched,High,False,False,False,False
+FLK,Falkland Islands,Not launched,High,False,False,False,False
+FRA,France,Launched,High,True,True,True,True
+FRO,Faroe Islands,Not launched,High,False,False,False,False
+FSM,Federated States of Micronesia,Not launched,High,False,False,False,False
+GAB,Gabon,Not launched,High,False,False,False,False
+GBR,United Kingdom,Launched,High,True,True,True,True
+GEO,Georgia,Launched,High,True,True,False,True
+GHA,Ghana,Not launched,High,False,False,False,False
+GIB,Gibraltar,Launched,High,True,False,False,False
+GIN,Guinea,Not launched,High,False,False,False,False
+GMB,Gambia,Launched,High,True,True,False,True
+GNB,Guinea-Bissau,Not launched,High,False,False,False,False
+GNQ,Equatorial Guinea,Not launched,High,False,False,False,False
+GRC,Greece,Launched,High,True,True,True,True
+GRD,Grenada,Not launched,High,False,False,False,False
+GRL,Greenland,Not launched,High,False,False,False,False
+GTM,Guatemala,Launched,High,True,True,True,True
+GUF,French Guiana,Launched,High,False,True,False,True
+GUM,Guam,Launched,High,False,True,False,True
+GUY,Guyana,Not launched,High,False,False,False,False
+HKG,Hong Kong,Launched,High,True,True,True,True
+HND,Honduras,Not launched,High,False,False,False,False
+HRV,Croatia,Launched,High,True,True,True,True
+HTI,Haiti,Not launched,High,False,False,False,False
+HUN,Hungary,Launched,High,True,True,True,True
+IDN,Indonesia,Launched,High,True,True,True,True
+IND,India,Launched,High,True,True,True,True
+IRL,Ireland,Launched,High,True,True,True,True
+IRN,Iran,Launched,High,True,True,False,True
+IRQ,Iraq,Not launched,High,False,False,False,False
+ISL,Iceland,Launched,High,True,True,False,True
+ISR,Israel,Launched,High,True,True,True,True
+ITA,Italy,Launched,High,True,True,True,True
+JAM,Jamaica,Not launched,High,False,False,False,False
+JOR,Jordan,Launched,High,True,True,False,True
+JPN,Japan,Launched,High,True,True,True,True
+KAZ,Kazakhstan,Launched,High,True,True,False,True
+KEN,Kenya,Launched,High,True,True,False,True
+KGZ,Kyrgyzstan,Not launched,High,False,False,False,False
+KHM,Cambodia,Not launched,High,False,False,False,False
+KIR,Kiribati,Not launched,High,False,False,False,False
+KNA,Saint Kitts and Nevis,Not launched,High,False,False,False,False
+KOR,South Korea,Launched,High,True,True,True,True
+KWT,Kuwait,Launched,High,True,True,True,True
+LAO,Laos,Launched,High,True,True,False,True
+LBN,Lebanon,Not launched,High,False,False,False,False
+LBR,Liberia,Not launched,High,False,False,False,False
+LBY,Libya,Not launched,High,False,False,False,False
+LCA,Saint Lucia,Not launched,High,False,False,False,False
+LIE,Liechtenstein,Launched,High,False,True,False,True
+LKA,Sri Lanka,Launched,High,True,False,True,True
+LSO,Lesotho,Launched,High,False,True,False,False
+LTU,Lithuania,Launched,High,True,True,False,True
+LUX,Luxembourg,Launched,High,True,True,False,True
+LVA,Latvia,Launched,High,True,True,False,True
+MAC,Macau,Launched,High,True,True,False,True
+MAR,Morocco,Not launched,High,False,False,False,False
+MCO,Monaco,Launched,High,True,True,False,True
+MDA,Moldova,Launched,High,False,True,False,False
+MDG,Madagascar,Launched,High,False,True,False,False
+MDV,Maldives,Launched,High,True,True,True,True
+MEX,Mexico,Launched,High,True,True,True,True
+MHL,Marshall Islands,Not launched,High,False,False,False,False
+MKD,North Macedonia,Launched,High,False,True,True,True
+MLI,Mali,Not launched,High,False,False,False,False
+MLT,Malta,Launched,High,True,True,False,True
+MMR,Myanmar,Not launched,High,False,False,False,False
+MNE,Montenegro,Launched,High,True,True,False,True
+MNG,Mongolia,Not launched,High,False,False,False,False
+MOZ,Mozambique,Launched,High,True,True,False,True
+MRT,Mauritania,Not launched,High,False,False,False,False
+MSR,Montserrat,Not launched,High,False,False,False,False
+MTQ,Martinique,Not launched,High,False,False,False,False
+MUS,Mauritius,Launched,High,False,True,False,True
+MWI,Malawi,Not launched,High,False,False,False,False
+MYS,Malaysia,Launched,High,True,True,True,True
+NAM,Namibia,Not launched,High,False,False,False,False
+NCL,New Caledonia,Not launched,High,False,False,False,False
+NER,Niger,Not launched,High,False,False,False,False
+NFK,Norfolk Island,Not launched,High,False,False,False,False
+NGA,Nigeria,Launched,High,True,True,False,True
+NIC,Nicaragua,Not launched,High,False,False,False,False
+NIU,Niue,Not launched,High,False,False,False,False
+NLD,Netherlands,Launched,High,True,True,True,True
+NOR,Norway,Launched,High,True,True,True,True
+NPL,Nepal,Not launched,High,False,False,False,False
+NRU,Nauru,Not launched,High,False,False,False,False
+NZL,New Zealand,Launched,High,True,True,True,True
+OMN,Oman,Launched,High,True,True,True,True
+PAK,Pakistan,Not launched,High,False,False,False,False
+PAN,Panama,Not launched,High,False,False,False,False
+PER,Peru,Launched,High,True,False,True,True
+PHL,Philippines,Launched,High,True,True,True,True
+PLW,Palau,Not launched,High,False,False,False,False
+PNG,Papua New Guinea,Not launched,High,False,False,False,False
+POL,Poland,Launched,High,True,True,True,True
+PRI,Puerto Rico,Launched,High,True,True,True,True
+PRK,North Korea,Not launched,High,False,False,False,False
+PRT,Portugal,Launched,High,True,True,True,True
+PRY,Paraguay,Not launched,High,False,False,False,False
+PSE,Palestine,Not launched,High,False,False,False,False
+PYF,French Polynesia,Launched,High,False,False,False,True
+QAT,Qatar,Launched,High,True,True,True,True
+REU,Réunion,Launched,High,True,True,False,True
+ROU,Romania,Launched,High,True,True,True,True
+RUS,Russian Federation,Launched,High,True,False,False,False
+RWA,Rwanda,Launched,High,True,False,False,False
+SAU,Saudi Arabia,Launched,High,True,True,True,True
+SDN,Sudan,Not launched,High,False,False,False,False
+SEN,Senegal,Launched,High,False,True,False,True
+SGP,Singapore,Launched,High,True,True,True,True
+SHN,Saint Helena,Not launched,High,False,False,False,False
+SLB,Solomon Islands,Not launched,High,False,False,False,False
+SLE,Sierra Leone,Launched,High,True,False,False,True
+SLV,El Salvador,Not launched,High,False,False,False,False
+SMR,San Marino,Not launched,High,False,False,False,False
+SOM,Somalia,Launched,High,True,True,False,True
+SPM,Saint Pierre and Miquelon,Not launched,High,False,False,False,False
+SRB,Serbia,Not launched,High,False,False,False,False
+SSD,South Sudan,Not launched,High,False,False,False,False
+STP,São Tomé and Príncipe,Not launched,High,False,False,False,False
+SUR,Suriname,Launched,High,True,True,False,True
+SVK,Slovakia,Launched,High,True,True,True,True
+SVN,Slovenia,Launched,High,True,True,True,True
+SWE,Sweden,Launched,High,True,True,True,True
+SWZ,Swaziland,Not launched,High,False,False,False,False
+SYC,Seychelles,Launched,High,True,True,False,True
+SYR,Syria,Not launched,High,False,False,False,False
+TCA,Turks and Caicos Islands,Not launched,High,False,False,False,False
+TCD,Chad,Not launched,High,False,False,False,False
+TGO,Togo,Launched,High,False,False,False,True
+THA,Thailand,Launched,High,True,True,True,True
+TJK,Tajikistan,Launched,High,True,False,False,True
+TKM,Turkmenistan,Not launched,High,False,False,False,False
+TLS,East Timor,Not launched,High,False,False,False,False
+TON,Tonga,Not launched,High,False,False,False,False
+TTO,Trinidad and Tobago,Not launched,High,False,False,False,False
+TUN,Tunisia,Not launched,High,False,False,False,False
+TUR,Turkey,Not launched,High,False,False,False,False
+TUV,Tuvalu,Not launched,High,False,False,False,False
+TWN,Taiwan,Launched,High,True,True,True,True
+TZA,Tanzania,Launched,High,True,True,False,True
+UGA,Uganda,Launched,High,True,True,False,True
+UKR,Ukraine,Not launched,High,False,False,False,False
+URY,Uruguay,Launched,High,True,True,True,True
+USA,United States of America,Launched,High,True,True,True,True
+UZB,Uzbekistan,Launched,High,True,True,False,True
+VCT,Saint Vincent and the Grenadines,Launched,High,True,False,False,False
+VEN,Venezuela,Not launched,High,False,False,False,False
+VGB,British Virgin Islands,Not launched,High,False,False,False,False
+VNM,Vietnam,Launched,High,True,True,False,True
+VUT,Vanuatu,Not launched,High,False,False,False,False
+WLF,Wallis and Futuna,Not launched,High,False,False,False,False
+WSM,Samoa,Launched,High,True,True,False,True
+XXK,Kosovo,Launched,High,False,True,False,True
+YEM,Yemen,Not launched,High,False,False,False,False
+ZAF,South Africa,Launched,High,True,True,True,True
+ZMB,Zambia,Launched,High,True,True,False,True
+ZWE,Zimbabwe,Launched,High,True,True,False,True
